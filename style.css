@@ -506,7 +506,10 @@
   }
   
 .text-game{
-  background-color: var(--bg);
+  background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZjZWZlNzRxamVoYjlhZmhrMDR1dXY2YWZjenNoa2JncndsZWFudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tBwXwUufSNkCKJxBm5/giphy.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
   .game {
