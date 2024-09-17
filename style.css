@@ -620,3 +620,7 @@ footer li {
     min-width: 60%;
   }
 }
+
+.nav-link:hover{
+  color: rgb(0, 0, 0);
+}
